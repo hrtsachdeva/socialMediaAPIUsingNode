@@ -1,0 +1,16 @@
+{
+    "/":"APi Docs",
+    "/signup":"signup a new user",
+    "/signin":"sign a user",
+    "/signout":"for signout a user",
+    "/users":"get all users",
+    "/user/:userid":"get a user",
+    "/user/:userid":"delete a user",
+    "/user/:userid":"update a user",
+    "/post":"get all posts",
+    "/post/new/:userid":"Create new Post",
+    "/post/by/:userid":"get Post by a particular user",
+    "/post/:postid":"delete a post",
+    "/post/:postid":"update a post"
+
+}
